@@ -1,0 +1,7 @@
+Correos:eriick1324@gmail.com,
+    Asunto: asd,
+    Contenido: <p>asd</p>
+El valor del dolar el día de hoy es : 816.29
+El valor del euro el día de hoy es : 885.73
+El valor del uf el día de hoy es : 31995.32
+El valor del utm el día de hoy es : 55704
